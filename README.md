@@ -7,3 +7,5 @@ Validate that brackets entered with a text input are properly closed
 ## Setup
 > composer update
 
+## License
+[MIT license](https://opensource.org/licenses/MIT).
